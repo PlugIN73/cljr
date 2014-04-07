@@ -1,6 +1,6 @@
 (ns prime-number.core)
 
-(defn is-prime?
+(defn prime?
   "is number a prime?"
   [x]
   (cond

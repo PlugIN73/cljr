@@ -12,4 +12,4 @@
 
 (deftest a-test
   (testing "is prime 1 ?"
-    (assert (!(is-prime? 1)))))
+    (assert (!(prime? 1)))))
